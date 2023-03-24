@@ -14,5 +14,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandre-pascal&show_icons=true&locale=en&layout=compact" alt="alexandre-pascal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandre-pascal&show_icons=true&locale=en" alt="alexandre-pascal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandre-pascal&" alt="alexandre-pascal" /></p>
