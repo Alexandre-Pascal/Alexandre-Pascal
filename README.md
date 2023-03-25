@@ -13,8 +13,8 @@
 
 <h3 align="left">Rejoignez moi:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alexandre pascal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandre pascal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/alexandre pascal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alexandre pascal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alexandre-pascal-69a63524b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandre pascal" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@alexandrepascal2269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alexandre pascal" height="30" width="40" /></a>
 </p>
 
 
