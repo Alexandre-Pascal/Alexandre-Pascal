@@ -2,7 +2,7 @@
 
 <br>
 
-<h1 align="center">Etudiant en 2ème année de BUT Informatique à l'IUT de Bayonne et du Pays Basque</h2>
+<h1 align="center">Etudiant en 3ème année de BUT Informatique à l'IUT de Bayonne et du Pays Basque</h2>
 
 ## 👨‍💻 En plein développement de notre application [BESTA](https://robinalonzo.alwaysdata.net/)
 
