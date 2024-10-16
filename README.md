@@ -2,9 +2,9 @@
 
 <br>
 
-<h1 align="center">Etudiant en 3ème année de BUT Informatique à l'IUT de Bayonne et du Pays Basque</h2>
+<h1 align="center">Fraichement diplomé d'un BUT Informatique obtenu à l'IUT de Bayonne et du Pays Basque</h2>
 
-## 👨‍💻 En plein développement de notre application VALPINETA
+## Actuellement en formation avec Alyra pour "Développer une application décentralisée avec les technologies blockchain", je renforce mes compétences dans le secteur en pleine expansion de la blockchain. 
 
 <br>
 
