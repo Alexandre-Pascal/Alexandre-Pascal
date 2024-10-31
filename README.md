@@ -36,4 +36,4 @@ I also own a **Ledger wallet** to secure my assets, and I consider myself increa
 ---
 
 ## 📫 Contact
-Feel free to reach out via my GitHub profile or other social media channels!
+Feel free to reach out via my GitHub profile or other social media channels !
