@@ -34,7 +34,7 @@ Actuellement en formation avec **[Alyra](https://www.alyra.fr/)** pour "Dévelop
     </a>
 </p>
 
-<img align="right" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandre-pascal&layout=compact" alt="alexandre-pascal" />
+<img align="right" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandre-pascal&lang=en&layout=compact" alt="alexandre-pascal" />
 
 ### Technologies Web
 <p align="left">
