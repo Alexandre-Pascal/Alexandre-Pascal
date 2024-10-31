@@ -13,86 +13,16 @@ Currently enrolled in **[Alyra](https://www.alyra.fr/)** for "Developing a Decen
 ## Languages and Tools
 
 ### Programming Languages
-<p align="left">
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
-    </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40"/>
-    </a>
-    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40"/>
-    </a>
-    <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" width="40" height="40"/>
-    </a>
-</p>
+![C++](https://skillicons.dev/icons?i=cpp) ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![PHP](https://skillicons.dev/icons?i=php) ![C#](https://skillicons.dev/icons?i=cs) ![Solidity](https://skillicons.dev/icons?i=solidity)
 
-### Technologies Web
-<p align="left">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>
-    </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40"/>
-    </a>
-</p>
+### Web Technologies
+![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs)
 
-### Bases de Données
-<p align="left">
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
-    </a>
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/>
-    </a>
-</p>
+### Databases
+![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
-### Outils et Technologies Divers
-<p align="left">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/>
-    </a>
-    <a href="https://discord.js.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=discord" alt="Discord.js" width="40" height="40"/>
-    </a>
-    <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="40" height="40"/>
-    </a>
-    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/>
-    </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="40" height="40"/>
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/>
-    </a>
-    <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="40" height="40"/>
-    </a>
-</p>
+### Tools & Miscellaneous Technologies
+![Git](https://skillicons.dev/icons?i=git) ![Linux](https://skillicons.dev/icons?i=linux) ![Discord.js](https://skillicons.dev/icons?i=discord) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Figma](https://skillicons.dev/icons?i=figma) ![Notion](https://skillicons.dev/icons?i=notion)
 
 ---
 
