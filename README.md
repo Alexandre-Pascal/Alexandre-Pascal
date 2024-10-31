@@ -14,82 +14,83 @@ Currently enrolled in **[Alyra](https://www.alyra.fr/)** for "Developing a Decen
 
 ### Programming Languages
 <p align="left">
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-    </a>   
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-    </a>  
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
-    </a> 
-    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/>
     </a>
-    <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.logo.wine/a/logo/Solidity/Solidity-Logo.wine.svg" alt="Solidity" width="40" height="40"/> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
     </a>
-</p>
-
-<img align="right" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandre-pascal&lang=en&layout=compact" alt="alexandre-pascal" />
-
-### Web Technologies
-<p align="left">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-    </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
-    </a> 
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/> 
-    </a> 
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/> 
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
+    </a>
+    <a href="https://www.php.net" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40"/>
+    </a>
+    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40"/>
+    </a>
+    <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" width="40" height="40"/>
     </a>
 </p>
 
-### Databases
+### Technologies Web
 <p align="left">
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40"/>
     </a>
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> 
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40"/>
     </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/>
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>
+    </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40"/>
     </a>
 </p>
 
-### Tools & Miscellaneous Technologies
+### Bases de Données
 <p align="left">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-    </a>  
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
     </a>
-    <a href="https://hardhat.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://hardhat.org/favicon.ico" alt="Hardhat" width="40" height="40"/> 
-    </a> 
-    <a href="https://discord.js.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" alt="Discord.js" width="40" height="40"/> 
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40"/>
     </a>
-    <a href="https://vercel.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40"/> 
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/>
     </a>
-    <a href="https://ethereum.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=014" alt="Ethereum" width="40" height="40"/> 
+</p>
+
+### Outils et Technologies Divers
+<p align="left">
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
+    </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/>
+    </a>
+    <a href="https://discord.js.org/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=discord" alt="Discord.js" width="40" height="40"/>
+    </a>
+    <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="40" height="40"/>
+    </a>
+    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/>
+    </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="40" height="40"/>
+    </a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/>
+    </a>
+    <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="40" height="40"/>
     </a>
 </p>
 
