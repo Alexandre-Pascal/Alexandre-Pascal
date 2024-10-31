@@ -1,108 +1,106 @@
-# 🎓 Profil Professionnel
+# 🎓 Professional Profile
 
-## Fraîchement diplômé d'un BUT Informatique
+## Recent Graduate with a Degree in Computer Science
 ### IUT de Bayonne et du Pays Basque
 
 ---
 
-## Formation Actuelle
-Actuellement en formation avec **[Alyra](https://www.alyra.fr/)** pour "Développer une application décentralisée avec les technologies blockchain ([RS6515](https://www.francecompetences.fr/recherche/rs/6515/))", je renforce mes compétences dans le secteur en pleine expansion de la blockchain.
+## Current Training
+Currently enrolled in **[Alyra](https://www.alyra.fr/)** for "Developing a Decentralized Application with Blockchain Technologies ([RS6515](https://www.francecompetences.fr/recherche/rs/6515/))," where I am strengthening my skills in the fast-growing blockchain sector.
 
 ---
 
-## Langages et Outils Maîtrisés
+## Languages and Tools
 
-### Langages de Programmation
+### Programming Languages
 <p align="left">
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
     </a>   
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
     </a>  
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
     </a> 
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
     </a> 
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
     </a>
     <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.logo.wine/a/logo/Solidity/Solidity-Logo.wine.svg" alt="solidity" width="40" height="40"/> 
+        <img src="https://www.logo.wine/a/logo/Solidity/Solidity-Logo.wine.svg" alt="Solidity" width="40" height="40"/> 
     </a>
 </p>
 
 <img align="right" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandre-pascal&lang=en&layout=compact" alt="alexandre-pascal" />
 
-### Technologies Web
+### Web Technologies
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
     </a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
     </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
     </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
     </a> 
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactnative" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/> 
     </a> 
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/> 
     </a>
 </p>
 
-### Bases de Données
+### Databases
 <p align="left">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
     </a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> 
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> 
     </a>
 </p>
 
-### Outils et Technologies Divers
+### Tools & Miscellaneous Technologies
 <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
     </a>  
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
     </a>
     <a href="https://hardhat.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://hardhat.org/favicon.ico" alt="hardhat" width="40" height="40"/> 
+        <img src="https://hardhat.org/favicon.ico" alt="Hardhat" width="40" height="40"/> 
     </a> 
     <a href="https://discord.js.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" alt="discord" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" alt="Discord.js" width="40" height="40"/> 
     </a>
     <a href="https://vercel.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40"/> 
     </a>
     <a href="https://ethereum.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=014" alt="ethereum" width="40" height="40"/> 
+      <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=014" alt="Ethereum" width="40" height="40"/> 
     </a>
 </p>
 
 ---
 
-## Passion pour la Blockchain et les Cryptomonnaies
-Salut ! Je m'appelle Alexandre, j'ai 21 ans, j'habite dans le Lot. Je suis passionné par le monde de la blockchain et des cryptomonnaies. Je m'intéresse à ces technologies depuis 2021, période durant laquelle j'ai commencé à explorer l'aspect financier de la crypto. J'ai essayé le minage sur Ethereum, et par la suite, je me suis aventuré dans l'investissement, y compris les airdrops et le staking. Actuellement, je suis un adepte du DCA (dollar-cost averaging) et je détient plusieurs cryptomonnaies, notamment BTC, ETH et BNB.
+## Passion for Blockchain and Cryptocurrencies
+Hello! My name is Alexandre, I'm 21 years old, and I live in the Lot, France. I'm passionate about the world of blockchain and cryptocurrencies. I began exploring crypto in 2021, diving first into the financial aspects. I experimented with Ethereum mining and later moved on to investments, including airdrops and staking. Currently, I follow a DCA (dollar-cost averaging) approach and hold several cryptocurrencies, including BTC, ETH, and BNB.
 
-Je suis également propriétaire d'une Ledger pour sécuriser mes actifs, et je me considère de plus en plus comme un Ethereum maximalist. En intégrant la formation Alyra, j'espère approfondir mes connaissances sur le développement blockchain et être en mesure de contribuer de manière significative à ce secteur en pleine croissance.
+I also own a Ledger wallet to secure my assets, and I consider myself increasingly as an Ethereum maximalist. By joining Alyra’s training, I hope to deepen my blockchain development skills and contribute significantly to this rapidly growing field.
 
 ---
 
 ## Contact
-Pour toute demande, n'hésitez pas à me contacter via mon profil GitHub ou mes autres réseaux sociaux.
-
----
+Feel free to reach out via my GitHub profile or other social media channels.
