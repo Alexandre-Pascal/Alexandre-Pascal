@@ -15,6 +15,8 @@ Currently enrolled in **[Alyra](https://www.alyra.fr/)** for "Developing a Decen
 ### Programming Languages
 ![C++](https://skillicons.dev/icons?i=cpp) ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![PHP](https://skillicons.dev/icons?i=php) ![C#](https://skillicons.dev/icons?i=cs) ![Solidity](https://skillicons.dev/icons?i=solidity)
 
+<img align="right" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandre-pascal&lang=en&layout=compact" alt="alexandre-pascal" />
+
 ### Web Technologies
 ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs)
 
