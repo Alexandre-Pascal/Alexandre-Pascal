@@ -6,7 +6,7 @@
 ---
 
 ## Formation Actuelle
-Actuellement en formation avec **Alyra** pour "Développer une application décentralisée avec les technologies blockchain", je renforce mes compétences dans le secteur en pleine expansion de la blockchain.
+Actuellement en formation avec **[Alyra](https://www.alyra.fr/)** pour "Développer une application décentralisée avec les technologies blockchain ([RS6515](https://www.francecompetences.fr/recherche/rs/6515/))", je renforce mes compétences dans le secteur en pleine expansion de la blockchain.
 
 ---
 
