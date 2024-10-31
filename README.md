@@ -29,7 +29,7 @@ Currently enrolled in **[Alyra](https://www.alyra.fr/)** for **"Developing a Dec
 ---
 
 ## 💡 Passion for Blockchain and Cryptocurrencies
-Hello! My name is **Alexandre**, I'm **21 years old**, and I live in **Lot, France**. I'm passionate about the world of **blockchain** and **cryptocurrencies**. I began exploring crypto in **2021**, diving first into the financial aspects. I experimented with **Ethereum mining** and later moved on to investments, including **airdrops** and **staking**. Currently, I follow a **DCA (dollar-cost averaging)** approach and hold several cryptocurrencies, including **BTC**, **ETH**, and **BNB**.
+Hello! My name is **Alexandre**, I'm **21 years old**, and I live in **Cahors, France**. I'm passionate about the world of **blockchain** and **cryptocurrencies**. I began exploring crypto in **2021**, diving first into the financial aspects. I experimented with **Ethereum mining** and later moved on to investments, including **airdrops** and **staking**. Currently, I follow a **DCA (dollar-cost averaging)** approach and hold several cryptocurrencies, including **BTC**, **ETH**, and **BNB**.
 
 I also own a **Ledger wallet** to secure my assets, and I consider myself increasingly an **Ethereum maximalist**. By joining **Alyra’s training**, I hope to deepen my blockchain development skills and contribute significantly to this rapidly growing field.
 
